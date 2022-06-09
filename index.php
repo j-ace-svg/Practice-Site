@@ -8,9 +8,9 @@
   <body>
 
     <p>This is a paragraph!</p>
-    <?php
+    <?php if (true) { ?>
       echo "This is also a paragraph!";
-    ?>
+    <?php } ?>
     <p>This is a paragraph!</p>
     
   </body>
