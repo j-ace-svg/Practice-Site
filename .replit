@@ -1,4 +1,4 @@
-run = "cowsay Configure me!"
+run = "php index.php"
 
 [nix]
 channel = "stable-21_11"
