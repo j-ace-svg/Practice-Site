@@ -1,5 +1,5 @@
 { pkgs }: {
     deps = [
-        pkgs.php
+        pkgs.php74
     ];
 }

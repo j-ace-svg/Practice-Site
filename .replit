@@ -1,4 +1,3 @@
-run = "php index.php"
+run = "php -S 0.0.0.0:8000 -t ."
 
-[nix]
-channel = "stable-21_11"
+entrypoint = "index.php"
